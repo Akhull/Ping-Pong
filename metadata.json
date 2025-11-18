@@ -1,0 +1,5 @@
+{
+  "name": "PwA v3.0.1 Rewind System improvements",
+  "description": "A classic 1v1 Pong game rebuilt for online multiplayer with a deep augment system, using the Ably real-time network. One player creates a game and shares the ID, the other joins from anywhere with an internet connection. The game uses a host/client architecture where the creating player's browser calculates the game physics and acts as the source of truth.",
+  "requestFramePermissions": []
+}
